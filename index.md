@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Immigrant or Expat?
 
-You can use the [editor on GitHub](https://github.com/Jinsang-Lee/immigrant_expat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Looking up tourist attractions before a short visit to Country A, widely known for its tremendously large non-national population, I encountered a dichotomy in multiple online posts and articles written by, and about, two groups of residents in Country A. Regardless of their duration and purpose of stay in the country, types of visas they hold, income levels, or technical proficiency their occupations require, one side was entitled to be referred to as “expats” while its counterpart was mere “immigrants.” The only difference between the two groups was, of course, their countries of origin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  Google Search Result of “expat” and “immigrant”
 
-### Markdown
+This phenomenon is worldwide, rather than a domestic problem in Country A. As Koutonin’s Article(https://www.theguardian.com/global-development-professionals-network/2015/mar/13/white-people-expats-immigrants-migration) points out, there clearly exists a hierarchical way of describing those who live and work abroad.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have conducted keywords analysis based on the Google Search Result of “expat” and “immigrant” for the period (1/1/2015 – 31/12/2021) to explore differences in connotations each word has.    
+(For more details, please refer to :https://github.com/Jinsang-Lee/immigrant_expat)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Visa. Citizen. Refugee vs. Guide. Tax. Life
 
-- Bulleted
-- List
+General internet users associate the two words with other words fairly differently. Overall, the two words showcase different focal points of interest. When googling “immigrant” Terms categorised in legal terms and social status, such as “visa”, “citizen(ship)”, “refugee” appeared most. Also, terms related to destination countries’ specific visa programmes are frequented. In contrast, both life-related and professional service-related terms, such as “guide”, “tax”, “life”, and “bank” were dominantly present with the word “expat”, while legal and social terms were the least frequented category of keywords.
 
-1. Numbered
-2. List
+Further attention, however, should be given to specific terms that are almost entirely associated with “immigrant”, such as “illegal”, “unauthorized”, “lawful” and “undocumented.” Barely any entry of these words was made together with “expat”. 
 
-**Bold** and _Italic_ and `Code` text
+## Who Should be immigrants?
 
-[Link](url) and ![Image](src)
-```
+The number of international migrants has continuously driven up for over decades to 281 million people living away from their homeland in 2020 (IOM 2019 https://publications.iom.int/system/files/pdf/wmr_2020.pdf). Apparently, the contemporary use of the two words does not reflect reality. Expats from the West also engage in illegal residency and criminal activities worldwide. Immigrants (as under the “traditional” classification) from low-income countries have played key roles in creating innovation with their talents brought in and also as an important contributor to tax income for destination governments. In this given context, fairer definition and use of these terms are demanded to establish an impartial perception of the growing “immigrants” population worldwide.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jinsang-Lee/immigrant_expat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A possible alternative is to take account of the origin of the contract a person migrating abroad has. One can be an expat only if they have entered into an employment contract before departing for a country as part of fulfilling the contract. Other cases, including a number of self-appointed modern expats, where their employment contracts have been made locally or are non-existent by the time of departure, should be recognised as immigration.
