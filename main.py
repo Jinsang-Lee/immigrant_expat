@@ -1,26 +1,42 @@
 import csv
-from nltk.tokenize import TreebankWordTokenizer
-from nltk.probability import FreqDist
-from collections import Counter
-tokenizer = TreebankWordTokenizer()
 
-txtfile = open('expat.txt','r', encoding='utf-8')
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from urllib.parse import urlparse
 
-empty =[]
+pagenum=190
+count=1
+searchlist = []
 
-for line in txtfile:
 
-    empty.extend(tokenizer.tokenize((line)))
-    #empty.append(tokenizer.tokenize((line)))
+p= input('how many pages to crawl?')
+lastpage= int(p) * 10 -9
 
-txtfile.close()
+while pagenum < lastpage+1 :
+    url = f'https://www.google.com/search?q=expat&tbs=cdr:1,cd_min:1/1/2015,cd_max:12/31/2021&start={pagenum}&sa=N&filter=0&2&biw=1920&bih=969&dpr=1'
+    driver = webdriver.Chrome()
+    driver.get(url)
 
-#fdist= FreqDist(word.most_common(30) for word in empty )
+    html = driver.page_source
+    soup = BeautifulSoup(html, "html.parser")
 
-counter = Counter(empty)
-most = counter.most_common(1500)
+    r = soup.select('.jtfYYd')
 
-k= open('expattoken.csv', 'w', encoding= 'utf-8', newline= '')
-csvWrite = csv.writer(k)
-csvWrite.writerow(most)
-print(most)
+    for i in r:
+        temp = []
+        temp.append(i.select_one('.LC20lb.MBeuO.DKV0Md').text)
+        temp.append(i.select_one('.VwiC3b.yXK7lf.MUxGbd.yDYNvb.lyLwlc.lEBKkf').text)
+        searchlist.append(temp)
+
+
+    driver.close()
+
+    k=open('expat2.csv', 'w', encoding='utf-8', newline='')
+    csvWriter = csv.writer(k)
+    for i in searchlist:
+        csvWriter.writerow((i))
+    k.close()
+    pagenum += 10
+    count += 1
+
+print('completed')
