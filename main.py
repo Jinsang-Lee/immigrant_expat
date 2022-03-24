@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from urllib.parse import urlparse
 
-pagenum=190
+pagenum=1
 count=1
 searchlist = []
 
@@ -31,7 +31,7 @@ while pagenum < lastpage+1 :
 
     driver.close()
 
-    k=open('expat2.csv', 'w', encoding='utf-8', newline='')
+    k=open('expat.csv', 'w', encoding='utf-8', newline='')
     csvWriter = csv.writer(k)
     for i in searchlist:
         csvWriter.writerow((i))
