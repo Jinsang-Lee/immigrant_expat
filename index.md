@@ -12,7 +12,7 @@ I have conducted keywords analysis based on the Google Search Result of “expat
 
 ## Visa. Citizen. Refugee vs. Guide. Tax. Life
 
-General internet users associate the two words with other keywords fairly differently. Overall, the two words showcase different focal points of interest. When googling “immigrant” Terms categorised in legal terms and social status, such as “visa”, “citizen(ship)”, “refugee” appeared most. Also, terms related to destination countries’ specific visa programmes are frequented. In contrast, both life-related and professional service-related terms, such as “guide”, “tax”, “life”, and “bank” were dominantly present with the word “expat”, while legal and social terms were the least frequented category of keywords.
+General internet users associate the two words with other keywords fairly differently. Overall, the two words showcase different focal points of interest. When googling “immigrant”, terms categorised in _legal terms and social status_, such as “visa”, “citizen(ship)”, “refugee” appeared most. Also, terms related to destination countries’ specific visa programmes are frequented. In contrast, both _life-related_ and _professional service-related_ terms, such as “guide”, “tax”, “life”, and “bank” were dominantly present with the word “expat”, while _legal and social terms_ were the least frequented category of keywords.
 
 Further attention, however, should be given to specific terms that are almost entirely associated with “immigrant”, such as “illegal”, “unauthorized”, “lawful” and “undocumented.” Barely any entry of these words was made together with “expat”. 
 
