@@ -7,7 +7,7 @@ Looking up tourist attractions before a short visit to Country A, widely known f
 This phenomenon is worldwide, rather than a domestic problem in Country A. As Koutonin’s [Article](https://www.theguardian.com/global-development-professionals-network/2015/mar/13/white-people-expats-immigrants-migration) points out, there clearly exists a hierarchical way of describing those who live and work abroad.
 
 I have conducted keywords analysis based on the Google Search Result of “expat” and “immigrant” for the period (1/1/2015 – 31/12/2021) to explore differences in connotations each word has.    
-(For more details, please refer to my [github](https://github.com/Jinsang-Lee/immigrant_expat)
+(For more details, please refer to my [github](https://github.com/Jinsang-Lee/immigrant_expat))
 
 
 ## Visa. Citizen. Refugee vs. Guide. Tax. Life
