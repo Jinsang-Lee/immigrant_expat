@@ -12,11 +12,9 @@ I have conducted keywords analysis based on the Google Search Result of “expat
 
 ## Visa. Citizen. Refugee vs. Guide. Tax. Life
 
-![IMG](https://github.com//Jinsang-Lee/immigrant_expat/blob/gh-pages/_Immigrant_.png?raw=true)
+![IMG](https://github.com/Jinsang-Lee/immigrant_expat/blob/gh-pages/_Immigrant_.png?raw=true)
 
-<div class='tableauPlaceholder' id='viz1648213104070' style='position: relative'><noscript><a href='#'><img alt='&quot;Expat&quot; (Google Search Result 2015-2021) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;Expat_Immigrant&#47;Expat&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Expat_Immigrant&#47;Expat' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;Expat_Immigrant&#47;Expat&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='ko-KR' /></object></div>           
-
-<div class='tableauPlaceholder' id='viz1648213757052' style='position: relative'><noscript><a href='#'><img alt='&quot;Immigrant&quot; (Google Search Result 2015-2021) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;Expat_Immigrant&#47;Immigrant&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Expat_Immigrant&#47;Immigrant' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ex&#47;Expat_Immigrant&#47;Immigrant&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='ko-KR' /><param name='filter' value='publish=yes' /></object></div>               
+![Exp](https://github.com/Jinsang-Lee/immigrant_expat/blob/gh-pages/_Expat_.png?raw=true)         
 
 (detailed data availabe [here](https://public.tableau.com/app/profile/jinsang.lee/viz/Expat_Immigrant/Exp_imm))
 
