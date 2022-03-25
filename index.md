@@ -16,7 +16,7 @@ I have conducted keywords analysis based on the Google Search Result of “expat
 
 ![Exp](https://github.com/Jinsang-Lee/immigrant_expat/blob/gh-pages/_Expat_.png?raw=true)         
 
-(detailed data availabe [here](https://public.tableau.com/app/profile/jinsang.lee/viz/Expat_Immigrant/Exp_imm))
+**(detailed data availabe [here](https://public.tableau.com/app/profile/jinsang.lee/viz/Expat_Immigrant/Exp_imm))**
 
 General internet users associate the two words with other keywords fairly differently. Overall, the two words showcase different focal points of interest. When googling “immigrant”, terms categorised in _legal terms and social status_, such as “visa”, “citizen(ship)”, “refugee” appeared most. Also, terms related to destination countries’ specific visa programmes are frequented. In contrast, both _life-related_ and _professional service-related_ terms, such as “guide”, “tax”, “life”, and “bank” were dominantly present with the word “expat”, while _legal and social terms_ were the least frequented category of keywords.
 
